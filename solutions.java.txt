@@ -1,3 +1,0 @@
-int solution = Integer.parcedDouble;
-Botev
-Plovdiv
