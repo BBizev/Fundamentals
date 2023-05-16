@@ -19,5 +19,8 @@ public class P01_Ages {
         } else if (ages >= 66) {
             System.out.println("elder");
         }
+        
+        
+        
     }
 }
